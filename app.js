@@ -78,7 +78,9 @@ function fallbackCover(book, index, className = "") {
 
 function coverMarkup(book, index, className = "") {
   if (book.cover && book.coverStatus === "已核验") {
-    return `<img src="${book.cover}" alt="《${book.title}》封面" loading="lazy" />`;
+    const loading = index < 8 ? "eager" : "lazy";
+    const priority = index < 4 ? ' fetchpriority="high"' : "";
+    return `<img src="${book.cover}" alt="《${book.title}》封面" loading="${loading}" decoding="async"${priority} />`;
   }
   return fallbackCover(book, index, className);
 }

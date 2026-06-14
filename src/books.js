@@ -10,7 +10,7 @@ window.books = [
     "queryTitle": "The Iliad",
     "queryAuthor": "Homer",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/14546467-L.jpg",
+    "cover": "./assets/covers/book-001.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "The Iliad",
@@ -20,7 +20,8 @@ window.books = [
       ],
       "firstPublishYear": 2023,
       "workUrl": "https://openlibrary.org/works/OL36997893W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/14546467-L.jpg"
   },
   {
     "id": "book-002",
@@ -33,7 +34,7 @@ window.books = [
     "queryTitle": "The Odyssey",
     "queryAuthor": "Homer",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/12474938-L.jpg",
+    "cover": "./assets/covers/book-002.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "The Odyssey",
@@ -42,7 +43,8 @@ window.books = [
       ],
       "firstPublishYear": 1946,
       "workUrl": "https://openlibrary.org/works/OL26446888W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/12474938-L.jpg"
   },
   {
     "id": "book-003",
@@ -55,7 +57,7 @@ window.books = [
     "queryTitle": "Romance of the Three Kingdoms",
     "queryAuthor": "Luo Guanzhong",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/5445126-L.jpg",
+    "cover": "./assets/covers/book-003.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Romance of the three kingdoms",
@@ -65,7 +67,8 @@ window.books = [
       ],
       "firstPublishYear": 1644,
       "workUrl": "https://openlibrary.org/works/OL1961811W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/5445126-L.jpg"
   },
   {
     "id": "book-004",
@@ -78,7 +81,7 @@ window.books = [
     "queryTitle": "Water Margin",
     "queryAuthor": "Shi Nai'an",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/7997578-L.jpg",
+    "cover": "./assets/covers/book-004.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Water Margin",
@@ -92,7 +95,8 @@ window.books = [
       ],
       "firstPublishYear": 1963,
       "workUrl": "https://openlibrary.org/works/OL8599313W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/7997578-L.jpg"
   },
   {
     "id": "book-005",
@@ -105,7 +109,7 @@ window.books = [
     "queryTitle": "Journey to the West",
     "queryAuthor": "Wu Cheng'en",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/2266920-L.jpg",
+    "cover": "./assets/covers/book-005.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Journey to the West",
@@ -114,7 +118,8 @@ window.books = [
       ],
       "firstPublishYear": 2000,
       "workUrl": "https://openlibrary.org/works/OL9079942W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/2266920-L.jpg"
   },
   {
     "id": "book-006",
@@ -127,7 +132,7 @@ window.books = [
     "queryTitle": "Dream of the Red Chamber",
     "queryAuthor": "Cao Xueqin",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/9481887-L.jpg",
+    "cover": "./assets/covers/book-006.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Dream of the red chamber",
@@ -136,7 +141,8 @@ window.books = [
       ],
       "firstPublishYear": 1958,
       "workUrl": "https://openlibrary.org/works/OL16803123W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/9481887-L.jpg"
   },
   {
     "id": "book-007",
@@ -149,7 +155,7 @@ window.books = [
     "queryTitle": "Romeo and Juliet",
     "queryAuthor": "William Shakespeare",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/8257991-L.jpg",
+    "cover": "./assets/covers/book-007.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Romeo and Juliet",
@@ -158,7 +164,8 @@ window.books = [
       ],
       "firstPublishYear": 1597,
       "workUrl": "https://openlibrary.org/works/OL362427W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/8257991-L.jpg"
   },
   {
     "id": "book-008",
@@ -171,7 +178,7 @@ window.books = [
     "queryTitle": "A Midsummer Night's Dream",
     "queryAuthor": "William Shakespeare",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/7205924-L.jpg",
+    "cover": "./assets/covers/book-008.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "A Midsummer Night's Dream",
@@ -180,7 +187,8 @@ window.books = [
       ],
       "firstPublishYear": 1600,
       "workUrl": "https://openlibrary.org/works/OL259010W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/7205924-L.jpg"
   },
   {
     "id": "book-009",
@@ -193,7 +201,7 @@ window.books = [
     "queryTitle": "The Merchant of Venice",
     "queryAuthor": "William Shakespeare",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/7182819-L.jpg",
+    "cover": "./assets/covers/book-009.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "The Merchant of Venice",
@@ -202,7 +210,8 @@ window.books = [
       ],
       "firstPublishYear": 1600,
       "workUrl": "https://openlibrary.org/works/OL258758W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/7182819-L.jpg"
   },
   {
     "id": "book-010",
@@ -215,7 +224,7 @@ window.books = [
     "queryTitle": "Hamlet",
     "queryAuthor": "William Shakespeare",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/8281954-L.jpg",
+    "cover": "./assets/covers/book-010.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Hamlet",
@@ -224,7 +233,8 @@ window.books = [
       ],
       "firstPublishYear": 1603,
       "workUrl": "https://openlibrary.org/works/OL9170454W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/8281954-L.jpg"
   },
   {
     "id": "book-011",
@@ -237,7 +247,7 @@ window.books = [
     "queryTitle": "King Lear",
     "queryAuthor": "William Shakespeare",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/7420452-L.jpg",
+    "cover": "./assets/covers/book-011.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "King Lear",
@@ -246,7 +256,8 @@ window.books = [
       ],
       "firstPublishYear": 1608,
       "workUrl": "https://openlibrary.org/works/OL259026W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/7420452-L.jpg"
   },
   {
     "id": "book-012",
@@ -259,7 +270,7 @@ window.books = [
     "queryTitle": "Othello",
     "queryAuthor": "William Shakespeare",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/7165018-L.jpg",
+    "cover": "./assets/covers/book-012.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Othello",
@@ -268,7 +279,8 @@ window.books = [
       ],
       "firstPublishYear": 1622,
       "workUrl": "https://openlibrary.org/works/OL258850W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/7165018-L.jpg"
   },
   {
     "id": "book-013",
@@ -281,7 +293,7 @@ window.books = [
     "queryTitle": "Macbeth",
     "queryAuthor": "William Shakespeare",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/872432-L.jpg",
+    "cover": "./assets/covers/book-013.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Macbeth",
@@ -290,7 +302,8 @@ window.books = [
       ],
       "firstPublishYear": 1508,
       "workUrl": "https://openlibrary.org/works/OL258902W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/872432-L.jpg"
   },
   {
     "id": "book-014",
@@ -303,7 +316,7 @@ window.books = [
     "queryTitle": "Don Quixote",
     "queryAuthor": "Miguel de Cervantes",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/13846974-L.jpg",
+    "cover": "./assets/covers/book-014.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Don Quixote",
@@ -312,7 +325,8 @@ window.books = [
       ],
       "firstPublishYear": 2017,
       "workUrl": "https://openlibrary.org/works/OL26799707W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/13846974-L.jpg"
   },
   {
     "id": "book-015",
@@ -325,7 +339,7 @@ window.books = [
     "queryTitle": "Robinson Crusoe",
     "queryAuthor": "Daniel Defoe",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/368541-L.jpg",
+    "cover": "./assets/covers/book-015.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Robinson Crusoe",
@@ -338,7 +352,8 @@ window.books = [
       ],
       "firstPublishYear": 1686,
       "workUrl": "https://openlibrary.org/works/OL45089W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/368541-L.jpg"
   },
   {
     "id": "book-016",
@@ -365,7 +380,7 @@ window.books = [
     "queryTitle": "Frankenstein",
     "queryAuthor": "Mary Shelley",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/15118068-L.jpg",
+    "cover": "./assets/covers/book-017.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Frankenstein",
@@ -374,7 +389,8 @@ window.books = [
       ],
       "firstPublishYear": 2017,
       "workUrl": "https://openlibrary.org/works/OL26860869W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/15118068-L.jpg"
   },
   {
     "id": "book-018",
@@ -387,7 +403,7 @@ window.books = [
     "queryTitle": "The Red and the Black",
     "queryAuthor": "Stendhal",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/13861207-L.jpg",
+    "cover": "./assets/covers/book-018.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "The Red and the Black",
@@ -398,7 +414,8 @@ window.books = [
       ],
       "firstPublishYear": 2011,
       "workUrl": "https://openlibrary.org/works/OL27297169W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/13861207-L.jpg"
   },
   {
     "id": "book-019",
@@ -439,7 +456,7 @@ window.books = [
     "queryTitle": "Wuthering Heights",
     "queryAuthor": "Emily Bronte",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/12818862-L.jpg",
+    "cover": "./assets/covers/book-021.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Wuthering Heights",
@@ -448,7 +465,8 @@ window.books = [
       ],
       "firstPublishYear": 1846,
       "workUrl": "https://openlibrary.org/works/OL21177W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/12818862-L.jpg"
   },
   {
     "id": "book-022",
@@ -461,7 +479,7 @@ window.books = [
     "queryTitle": "Jane Eyre",
     "queryAuthor": "Charlotte Bronte",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/8235363-L.jpg",
+    "cover": "./assets/covers/book-022.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Jane Eyre",
@@ -470,7 +488,8 @@ window.books = [
       ],
       "firstPublishYear": 1847,
       "workUrl": "https://openlibrary.org/works/OL1095427W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/8235363-L.jpg"
   },
   {
     "id": "book-023",
@@ -483,7 +502,7 @@ window.books = [
     "queryTitle": "Madame Bovary",
     "queryAuthor": "Gustave Flaubert",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/12993424-L.jpg",
+    "cover": "./assets/covers/book-023.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Madame Bovary",
@@ -492,7 +511,8 @@ window.books = [
       ],
       "firstPublishYear": 1856,
       "workUrl": "https://openlibrary.org/works/OL893707W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/12993424-L.jpg"
   },
   {
     "id": "book-024",
@@ -505,7 +525,7 @@ window.books = [
     "queryTitle": "Les Miserables",
     "queryAuthor": "Victor Hugo",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/12721865-L.jpg",
+    "cover": "./assets/covers/book-024.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Les Misérables",
@@ -514,7 +534,8 @@ window.books = [
       ],
       "firstPublishYear": 1862,
       "workUrl": "https://openlibrary.org/works/OL1063588W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/12721865-L.jpg"
   },
   {
     "id": "book-025",
@@ -527,7 +548,7 @@ window.books = [
     "queryTitle": "Alice's Adventures in Wonderland",
     "queryAuthor": "Lewis Carroll",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/10527843-L.jpg",
+    "cover": "./assets/covers/book-025.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Alice's Adventures in Wonderland",
@@ -536,7 +557,8 @@ window.books = [
       ],
       "firstPublishYear": 1865,
       "workUrl": "https://openlibrary.org/works/OL138052W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/10527843-L.jpg"
   },
   {
     "id": "book-026",
@@ -549,7 +571,7 @@ window.books = [
     "queryTitle": "Through the Looking-Glass",
     "queryAuthor": "Lewis Carroll",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/11272464-L.jpg",
+    "cover": "./assets/covers/book-026.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Through the Looking-Glass",
@@ -558,7 +580,8 @@ window.books = [
       ],
       "firstPublishYear": 1865,
       "workUrl": "https://openlibrary.org/works/OL151406W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/11272464-L.jpg"
   },
   {
     "id": "book-027",
@@ -571,7 +594,7 @@ window.books = [
     "queryTitle": "Crime and Punishment",
     "queryAuthor": "Fyodor Dostoevsky",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/13116014-L.jpg",
+    "cover": "./assets/covers/book-027.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Crime and Punishment",
@@ -581,7 +604,8 @@ window.books = [
       ],
       "firstPublishYear": 1941,
       "workUrl": "https://openlibrary.org/works/OL32525579W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/13116014-L.jpg"
   },
   {
     "id": "book-028",
@@ -594,7 +618,7 @@ window.books = [
     "queryTitle": "Demons",
     "queryAuthor": "Fyodor Dostoevsky",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/15220861-L.jpg",
+    "cover": "./assets/covers/book-028.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Demons",
@@ -603,7 +627,8 @@ window.books = [
       ],
       "firstPublishYear": 2022,
       "workUrl": "https://openlibrary.org/works/OL45429744W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/15220861-L.jpg"
   },
   {
     "id": "book-029",
@@ -616,7 +641,7 @@ window.books = [
     "queryTitle": "The Brothers Karamazov",
     "queryAuthor": "Fyodor Dostoevsky",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/11263774-L.jpg",
+    "cover": "./assets/covers/book-029.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "The Brothers Karamazov",
@@ -626,7 +651,8 @@ window.books = [
       ],
       "firstPublishYear": 2015,
       "workUrl": "https://openlibrary.org/works/OL24600223W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/11263774-L.jpg"
   },
   {
     "id": "book-030",
@@ -667,7 +693,7 @@ window.books = [
     "queryTitle": "The Happy Prince and Other Tales",
     "queryAuthor": "Oscar Wilde",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/10608467-L.jpg",
+    "cover": "./assets/covers/book-032.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "The Happy Prince and other tales",
@@ -676,7 +702,8 @@ window.books = [
       ],
       "firstPublishYear": 1888,
       "workUrl": "https://openlibrary.org/works/OL8269770W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/10608467-L.jpg"
   },
   {
     "id": "book-033",
@@ -689,7 +716,7 @@ window.books = [
     "queryTitle": "Salome",
     "queryAuthor": "Oscar Wilde",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/8246115-L.jpg",
+    "cover": "./assets/covers/book-033.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Salomé",
@@ -698,7 +725,8 @@ window.books = [
       ],
       "firstPublishYear": 1893,
       "workUrl": "https://openlibrary.org/works/OL14877882W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/8246115-L.jpg"
   },
   {
     "id": "book-034",
@@ -797,7 +825,7 @@ window.books = [
     "queryTitle": "The Trial",
     "queryAuthor": "Franz Kafka",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/14910748-L.jpg",
+    "cover": "./assets/covers/book-039.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "The Trial",
@@ -806,7 +834,8 @@ window.books = [
       ],
       "firstPublishYear": 1925,
       "workUrl": "https://openlibrary.org/works/OL43043884W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/14910748-L.jpg"
   },
   {
     "id": "book-040",
@@ -840,7 +869,7 @@ window.books = [
     "queryTitle": "Dubliners",
     "queryAuthor": "James Joyce",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/8216412-L.jpg",
+    "cover": "./assets/covers/book-041.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Dubliners",
@@ -849,7 +878,8 @@ window.books = [
       ],
       "firstPublishYear": 1914,
       "workUrl": "https://openlibrary.org/works/OL86320W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/8216412-L.jpg"
   },
   {
     "id": "book-042",
@@ -862,7 +892,7 @@ window.books = [
     "queryTitle": "A Portrait of the Artist as a Young Man",
     "queryAuthor": "James Joyce",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/9328410-L.jpg",
+    "cover": "./assets/covers/book-042.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "A Portrait of the Artist as a Young Man",
@@ -874,7 +904,8 @@ window.books = [
       ],
       "firstPublishYear": 1818,
       "workUrl": "https://openlibrary.org/works/OL86343W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/9328410-L.jpg"
   },
   {
     "id": "book-043",
@@ -901,7 +932,7 @@ window.books = [
     "queryTitle": "Demian",
     "queryAuthor": "Hermann Hesse",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/12569297-L.jpg",
+    "cover": "./assets/covers/book-044.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Demian",
@@ -910,7 +941,8 @@ window.books = [
       ],
       "firstPublishYear": 1919,
       "workUrl": "https://openlibrary.org/works/OL30457295W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/12569297-L.jpg"
   },
   {
     "id": "book-045",
@@ -923,7 +955,7 @@ window.books = [
     "queryTitle": "Siddhartha",
     "queryAuthor": "Hermann Hesse",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/6562535-L.jpg",
+    "cover": "./assets/covers/book-045.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Siddhartha",
@@ -932,7 +964,8 @@ window.books = [
       ],
       "firstPublishYear": 1922,
       "workUrl": "https://openlibrary.org/works/OL872932W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/6562535-L.jpg"
   },
   {
     "id": "book-046",
@@ -945,7 +978,7 @@ window.books = [
     "queryTitle": "Steppenwolf",
     "queryAuthor": "Hermann Hesse",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/14911616-L.jpg",
+    "cover": "./assets/covers/book-046.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Steppenwolf",
@@ -954,7 +987,8 @@ window.books = [
       ],
       "firstPublishYear": 1929,
       "workUrl": "https://openlibrary.org/works/OL34654974W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/14911616-L.jpg"
   },
   {
     "id": "book-047",
@@ -967,7 +1001,7 @@ window.books = [
     "queryTitle": "Narcissus and Goldmund",
     "queryAuthor": "Hermann Hesse",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/8529776-L.jpg",
+    "cover": "./assets/covers/book-047.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Narcissus and Goldmund",
@@ -976,7 +1010,8 @@ window.books = [
       ],
       "firstPublishYear": 1971,
       "workUrl": "https://openlibrary.org/works/OL19581300W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/8529776-L.jpg"
   },
   {
     "id": "book-048",
@@ -989,7 +1024,7 @@ window.books = [
     "queryTitle": "Call to Arms",
     "queryAuthor": "Lu Xun",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/1045818-L.jpg",
+    "cover": "./assets/covers/book-048.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Call To Arms",
@@ -998,7 +1033,8 @@ window.books = [
       ],
       "firstPublishYear": 2000,
       "workUrl": "https://openlibrary.org/works/OL8599401W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/1045818-L.jpg"
   },
   {
     "id": "book-049",
@@ -1011,7 +1047,7 @@ window.books = [
     "queryTitle": "Wandering",
     "queryAuthor": "Lu Xun",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/1045819-L.jpg",
+    "cover": "./assets/covers/book-049.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Wandering",
@@ -1020,7 +1056,8 @@ window.books = [
       ],
       "firstPublishYear": 2000,
       "workUrl": "https://openlibrary.org/works/OL8599413W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/1045819-L.jpg"
   },
   {
     "id": "book-050",
@@ -1033,7 +1070,7 @@ window.books = [
     "queryTitle": "Old Tales Retold",
     "queryAuthor": "Lu Xun",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/1045821-L.jpg",
+    "cover": "./assets/covers/book-050.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Old Tales Retold",
@@ -1042,7 +1079,8 @@ window.books = [
       ],
       "firstPublishYear": 2001,
       "workUrl": "https://openlibrary.org/works/OL8599408W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/1045821-L.jpg"
   },
   {
     "id": "book-051",
@@ -1055,7 +1093,7 @@ window.books = [
     "queryTitle": "Mrs Dalloway",
     "queryAuthor": "Virginia Woolf",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/6397580-L.jpg",
+    "cover": "./assets/covers/book-051.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Mrs. Dalloway",
@@ -1064,7 +1102,8 @@ window.books = [
       ],
       "firstPublishYear": 1925,
       "workUrl": "https://openlibrary.org/works/OL39349W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/6397580-L.jpg"
   },
   {
     "id": "book-052",
@@ -1077,7 +1116,7 @@ window.books = [
     "queryTitle": "To the Lighthouse",
     "queryAuthor": "Virginia Woolf",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/8231846-L.jpg",
+    "cover": "./assets/covers/book-052.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "To the Lighthouse",
@@ -1086,7 +1125,8 @@ window.books = [
       ],
       "firstPublishYear": 1927,
       "workUrl": "https://openlibrary.org/works/OL39396W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/8231846-L.jpg"
   },
   {
     "id": "book-053",
@@ -1099,7 +1139,7 @@ window.books = [
     "queryTitle": "Orlando",
     "queryAuthor": "Virginia Woolf",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/3240273-L.jpg",
+    "cover": "./assets/covers/book-053.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Orlando",
@@ -1108,7 +1148,8 @@ window.books = [
       ],
       "firstPublishYear": 1928,
       "workUrl": "https://openlibrary.org/works/OL39360W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/3240273-L.jpg"
   },
   {
     "id": "book-054",
@@ -1121,7 +1162,7 @@ window.books = [
     "queryTitle": "Thunderstorm",
     "queryAuthor": "Cao Yu",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/15079850-L.jpg",
+    "cover": "./assets/covers/book-054.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Thunderstorm",
@@ -1130,7 +1171,8 @@ window.books = [
       ],
       "firstPublishYear": 1978,
       "workUrl": "https://openlibrary.org/works/OL33691240W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/15079850-L.jpg"
   },
   {
     "id": "book-055",
@@ -1164,7 +1206,7 @@ window.books = [
     "queryTitle": "Nausea",
     "queryAuthor": "Jean-Paul Sartre",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/13222534-L.jpg",
+    "cover": "./assets/covers/book-056.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "La Náusea",
@@ -1173,7 +1215,8 @@ window.books = [
       ],
       "firstPublishYear": 2012,
       "workUrl": "https://openlibrary.org/works/OL29288580W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/13222534-L.jpg"
   },
   {
     "id": "book-057",
@@ -1200,7 +1243,7 @@ window.books = [
     "queryTitle": "Caligula",
     "queryAuthor": "Albert Camus",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/9285399-L.jpg",
+    "cover": "./assets/covers/book-058.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Caligula",
@@ -1209,7 +1252,8 @@ window.books = [
       ],
       "firstPublishYear": 1961,
       "workUrl": "https://openlibrary.org/works/OL1230572W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/9285399-L.jpg"
   },
   {
     "id": "book-059",
@@ -1222,7 +1266,7 @@ window.books = [
     "queryTitle": "The Stranger",
     "queryAuthor": "Albert Camus",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/15070895-L.jpg",
+    "cover": "./assets/covers/book-059.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "The Stranger, The Plague (Coles Notes)",
@@ -1231,7 +1275,8 @@ window.books = [
       ],
       "firstPublishYear": 1980,
       "workUrl": "https://openlibrary.org/works/OL37995496W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/15070895-L.jpg"
   },
   {
     "id": "book-060",
@@ -1244,7 +1289,7 @@ window.books = [
     "queryTitle": "The Plague",
     "queryAuthor": "Albert Camus",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/745331-L.jpg",
+    "cover": "./assets/covers/book-060.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "The Plague, The Fall, Exile and the Kingdom, and Selected Essays",
@@ -1255,7 +1300,8 @@ window.books = [
       ],
       "firstPublishYear": 2004,
       "workUrl": "https://openlibrary.org/works/OL1230720W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/745331-L.jpg"
   },
   {
     "id": "book-061",
@@ -1268,7 +1314,7 @@ window.books = [
     "queryTitle": "Rickshaw Boy",
     "queryAuthor": "Lao She",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/13498082-L.jpg",
+    "cover": "./assets/covers/book-061.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Rickshaw boy",
@@ -1277,7 +1323,8 @@ window.books = [
       ],
       "firstPublishYear": 1945,
       "workUrl": "https://openlibrary.org/works/OL51427W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/13498082-L.jpg"
   },
   {
     "id": "book-062",
@@ -1290,7 +1337,7 @@ window.books = [
     "queryTitle": "Teahouse",
     "queryAuthor": "Lao She",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/1659795-L.jpg",
+    "cover": "./assets/covers/book-062.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Teahouse",
@@ -1299,7 +1346,8 @@ window.books = [
       ],
       "firstPublishYear": 2001,
       "workUrl": "https://openlibrary.org/works/OL8599357W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/1659795-L.jpg"
   },
   {
     "id": "book-063",
@@ -1312,7 +1360,7 @@ window.books = [
     "queryTitle": "The Garden of Forking Paths",
     "queryAuthor": "Jorge Luis Borges",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/12818869-L.jpg",
+    "cover": "./assets/covers/book-063.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "The Garden of Forking Paths",
@@ -1321,7 +1369,8 @@ window.books = [
       ],
       "firstPublishYear": 2018,
       "workUrl": "https://openlibrary.org/works/OL22541818W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/12818869-L.jpg"
   },
   {
     "id": "book-064",
@@ -1334,7 +1383,7 @@ window.books = [
     "queryTitle": "Fortress Besieged",
     "queryAuthor": "Qian Zhongshu",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/1349947-L.jpg",
+    "cover": "./assets/covers/book-064.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Fortress Besieged",
@@ -1343,7 +1392,8 @@ window.books = [
       ],
       "firstPublishYear": 2005,
       "workUrl": "https://openlibrary.org/works/OL8356368W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/1349947-L.jpg"
   },
   {
     "id": "book-065",
@@ -1356,7 +1406,7 @@ window.books = [
     "queryTitle": "No Longer Human",
     "queryAuthor": "Osamu Dazai",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/14611513-L.jpg",
+    "cover": "./assets/covers/book-065.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "No Longer Human",
@@ -1366,7 +1416,8 @@ window.books = [
       ],
       "firstPublishYear": 2024,
       "workUrl": "https://openlibrary.org/works/OL37579112W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/14611513-L.jpg"
   },
   {
     "id": "book-066",
@@ -1400,7 +1451,7 @@ window.books = [
     "queryTitle": "The Catcher in the Rye",
     "queryAuthor": "J. D. Salinger",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/9273490-L.jpg",
+    "cover": "./assets/covers/book-067.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "The Catcher in the Rye",
@@ -1410,7 +1461,8 @@ window.books = [
       ],
       "firstPublishYear": 1945,
       "workUrl": "https://openlibrary.org/works/OL3335245W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/9273490-L.jpg"
   },
   {
     "id": "book-068",
@@ -1423,7 +1475,7 @@ window.books = [
     "queryTitle": "The Old Man and the Sea",
     "queryAuthor": "Ernest Hemingway",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/463307-L.jpg",
+    "cover": "./assets/covers/book-068.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "The Old Man and the Sea",
@@ -1432,7 +1484,8 @@ window.books = [
       ],
       "firstPublishYear": 1952,
       "workUrl": "https://openlibrary.org/works/OL63073W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/463307-L.jpg"
   },
   {
     "id": "book-069",
@@ -1445,7 +1498,7 @@ window.books = [
     "queryTitle": "The Cloven Viscount",
     "queryAuthor": "Italo Calvino",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/116400-L.jpg",
+    "cover": "./assets/covers/book-069.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "The nonexistent knight & The cloven viscount",
@@ -1454,7 +1507,8 @@ window.books = [
       ],
       "firstPublishYear": 1962,
       "workUrl": "https://openlibrary.org/works/OL15336W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/116400-L.jpg"
   },
   {
     "id": "book-070",
@@ -1488,7 +1542,7 @@ window.books = [
     "queryTitle": "The Nonexistent Knight",
     "queryAuthor": "Italo Calvino",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/116400-L.jpg",
+    "cover": "./assets/covers/book-071.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "The nonexistent knight & The cloven viscount",
@@ -1497,7 +1551,8 @@ window.books = [
       ],
       "firstPublishYear": 1962,
       "workUrl": "https://openlibrary.org/works/OL15336W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/116400-L.jpg"
   },
   {
     "id": "book-072",
@@ -1531,7 +1586,7 @@ window.books = [
     "queryTitle": "If on a winter's night a traveler",
     "queryAuthor": "Italo Calvino",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/12007967-L.jpg",
+    "cover": "./assets/covers/book-073.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "If on a Winter's Night a Traveler",
@@ -1540,7 +1595,8 @@ window.books = [
       ],
       "firstPublishYear": 1982,
       "workUrl": "https://openlibrary.org/works/OL21784995W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/12007967-L.jpg"
   },
   {
     "id": "book-074",
@@ -1553,7 +1609,7 @@ window.books = [
     "queryTitle": "Waiting for Godot",
     "queryAuthor": "Samuel Beckett",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/12424201-L.jpg",
+    "cover": "./assets/covers/book-074.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Waiting for Godot",
@@ -1562,7 +1618,8 @@ window.books = [
       ],
       "firstPublishYear": 1956,
       "workUrl": "https://openlibrary.org/works/OL21013186W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/12424201-L.jpg"
   },
   {
     "id": "book-075",
@@ -1575,7 +1632,7 @@ window.books = [
     "queryTitle": "Lolita",
     "queryAuthor": "Vladimir Nabokov",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/12984540-L.jpg",
+    "cover": "./assets/covers/book-075.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Lolita",
@@ -1584,7 +1641,8 @@ window.books = [
       ],
       "firstPublishYear": 1777,
       "workUrl": "https://openlibrary.org/works/OL627084W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/12984540-L.jpg"
   },
   {
     "id": "book-076",
@@ -1597,7 +1655,7 @@ window.books = [
     "queryTitle": "No One Writes to the Colonel",
     "queryAuthor": "Gabriel Garcia Marquez",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/13180855-L.jpg",
+    "cover": "./assets/covers/book-076.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "No One Writes to the Colonel",
@@ -1606,7 +1664,8 @@ window.books = [
       ],
       "firstPublishYear": 2014,
       "workUrl": "https://openlibrary.org/works/OL25733943W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/13180855-L.jpg"
   },
   {
     "id": "book-077",
@@ -1619,7 +1678,7 @@ window.books = [
     "queryTitle": "One Hundred Years of Solitude",
     "queryAuthor": "Gabriel Garcia Marquez",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/15185412-L.jpg",
+    "cover": "./assets/covers/book-077.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "One Hundred Years of Solitude",
@@ -1628,7 +1687,8 @@ window.books = [
       ],
       "firstPublishYear": 1971,
       "workUrl": "https://openlibrary.org/works/OL43108828W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/15185412-L.jpg"
   },
   {
     "id": "book-078",
@@ -1641,7 +1701,7 @@ window.books = [
     "queryTitle": "Chronicle of a Death Foretold",
     "queryAuthor": "Gabriel Garcia Marquez",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/12198662-L.jpg",
+    "cover": "./assets/covers/book-078.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Chronicle of a Death Foretold",
@@ -1650,7 +1710,8 @@ window.books = [
       ],
       "firstPublishYear": 1984,
       "workUrl": "https://openlibrary.org/works/OL26201952W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/12198662-L.jpg"
   },
   {
     "id": "book-079",
@@ -1663,7 +1724,7 @@ window.books = [
     "queryTitle": "Love in the Time of Cholera",
     "queryAuthor": "Gabriel Garcia Marquez",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/10518348-L.jpg",
+    "cover": "./assets/covers/book-079.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "Love in the Time of Cholera",
@@ -1672,7 +1733,8 @@ window.books = [
       ],
       "firstPublishYear": null,
       "workUrl": "https://openlibrary.org/works/OL23624225W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/10518348-L.jpg"
   },
   {
     "id": "book-080",
@@ -1685,7 +1747,7 @@ window.books = [
     "queryTitle": "The French Lieutenant's Woman",
     "queryAuthor": "John Fowles",
     "coverStatus": "已核验",
-    "cover": "https://covers.openlibrary.org/b/id/188822-L.jpg",
+    "cover": "./assets/covers/book-080.jpg",
     "source": {
       "provider": "Open Library",
       "matchedTitle": "The French Lieutenant's Woman",
@@ -1694,7 +1756,8 @@ window.books = [
       ],
       "firstPublishYear": 1967,
       "workUrl": "https://openlibrary.org/works/OL15010W"
-    }
+    },
+    "remoteCover": "https://covers.openlibrary.org/b/id/188822-L.jpg"
   },
   {
     "id": "book-081",
